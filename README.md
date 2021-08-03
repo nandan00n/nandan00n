@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandan00n&label=Profile%20views&color=0e75b6&style=flat" alt="nandan00n" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nandan_kumar_n" target="blank"><img src="https://img.shields.io/twitter/follow/nandan00n?logo=twitter&style=for-the-badge" alt="nandan00n" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nandan_kumar_n" target="blank"><img src="https://img.shields.io/twitter/follow/nandan_kumar_n?logo=twitter&style=for-the-badge" alt="nandan_kumar_n" /></a> </p>
 
 - 🔭 I’m currently working on [my Portfolio](https://nandan-kumar.netlify.app/)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/nandan_kumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nandan_kumar_n" height="30" width="40" /></a>
-<a href="https://twitter.com/nandan00n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandan00n" height="30" width="40" /></a>
+<a href="https://twitter.com/nandan_kumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nandan_kumar_n" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nandan-kumar-n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandan-kumar-n/" height="30" width="40" /></a>
 <a href="https://fb.com/nandankumar00n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nandankumar00n" height="30" width="40" /></a>
 <a href="https://instagram.com/nandan_kumar_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandan_kumar_n" height="30" width="40" /></a>
