@@ -1,4 +1,4 @@
-### Hi there, I am Nandan Kumar N 👋
+<!-- ### Hi there, I am Nandan Kumar N 👋 -->
 <!-- 
 
 - 🔭 I’m currently working on my Portfolio and few Projects that will help me get into a company.
