@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nandan_kumar_n" target="blank"><img src="https://img.shields.io/twitter/follow/nandan_kumar_n?logo=twitter&style=for-the-badge" alt="nandan_kumar_n" /></a> </p>
 
-- 🔭 I’m currently working on [my Portfolio](https://nandan-kumar.netlify.app/)
+- 🔭 I’m currently working on [JS and React js](https://nandan-kumar.netlify.app/)
 
 - 🌱 I’m currently learning **React JS**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://nandan-kumar.netlify.app/](https://nandan-kumar.netlify.app/)
 
-- ⚡ Fun fact **I love Learning new things about developing**
+- ⚡ Fun fact **I Love Tesla So Much I Will Sell All My Property Just To Buy A Tesla Car**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
